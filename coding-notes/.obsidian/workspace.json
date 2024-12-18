@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "d236afee8b474ba7",
+    "type": "split",
+    "children": [
+      {
+        "id": "eead98bc86fab2ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b14e73ace8020ef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bootdotdev/chapter9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chapter9"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e37d1d2f167209f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "01be462bab0b96f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9b62dcf1e4dca5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c0c549ed3674d851",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "acf5482c976dead4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a2c33d622dceccc",
+    "type": "split",
+    "children": [
+      {
+        "id": "9958fc11379142cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff0f810ba82f76ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bootdotdev/chapter9.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for chapter9"
+            }
+          },
+          {
+            "id": "f39426f0d15fd6ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "bootdotdev/chapter9.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from chapter9"
+            }
+          },
+          {
+            "id": "12955734d9a5bbdc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f3ca5fab88e321e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "bootdotdev/chapter9.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of chapter9"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b14e73ace8020ef5",
+  "lastOpenFiles": [
+    "bootdotdev/chapter8.md",
+    "bootdotdev/chapter7.md",
+    "bootdotdev/chapter6.md",
+    "bootdotdev/chapter4.md",
+    "bootdotdev/chapter3.md",
+    "bootdotdev/chapter2.md",
+    "naming-variables.md",
+    "neovim/my-hotkeys.md",
+    "test.md",
+    "neovim/hotkeys.md~",
+    "test-folder/test2.md",
+    "test.md~",
+    "test-folder",
+    "https:",
+    "test2.md",
+    "this.md",
+    "www.youtube.com.md",
+    "4913",
+    "test2.md~",
+    "1728153045-FSVQ.md",
+    "1728153012-OHVL.md",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
